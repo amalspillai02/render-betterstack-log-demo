@@ -1,0 +1,13 @@
+{
+  "name": "render-betterstack-log-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Minimal Node.js service to verify Render log streaming to Better Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
